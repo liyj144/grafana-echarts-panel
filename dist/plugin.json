@@ -1,0 +1,31 @@
+{
+  "type": "panel",
+  "name": "echarts",
+  "id": "grafana-echarts-panel",
+  "info": {
+    "description": "echarts panel for grafana",
+    "author": {
+      "name": "liyanjie",
+      "url": "https://blog.liyanjie.top"
+    },
+    "keywords": ["echarts", "panel"],
+    "logos": {
+      "small": "img/echarts.svg",
+      "large": "img/echarts.svg"
+    },
+    "links": [
+      {"name": "Project site", "url": "https://github.com/liyj144/grafana-echarts-panel"}
+    ],
+    "screenshots": [
+      {"name": "Showcase", "path": "img/screenshot-1.png"},
+      {"name": "Options", "path": "img/screenshot-2.png"}
+    ],
+    "version": "1.0.0",
+    "updated": "2016-11-02"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

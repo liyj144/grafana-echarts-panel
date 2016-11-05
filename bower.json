@@ -1,0 +1,27 @@
+{
+  "name": "grafana-echarts-panel",
+  "description": "echarts panel for Grafana",
+  "main": "",
+  "authors": [
+    "liyanjie <liyj144@126.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "grafana3 echarts charts"
+  ],
+  "homepage": "https://github.com/liyj144/grafana-echarts-panel",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.2.2",
+    "lodash": "^4.15.0",
+    "font-awesome": "^4.6.3",
+    "echarts-ng": "^0.3.13"
+  }
+}
